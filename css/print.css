@@ -1,0 +1,27 @@
+
+
+body {font: 10pt arial,tahoma,verdana,sans-serif}
+h1, h2, h3, h4, h5, h6 {margin: 1em 0 .2em;font-family: arial,tahoma,verdana,sans-serif}
+
+* {float:none;position:static;width:auto;background:#fff}
+p {margin: 0 0 1em}
+img {border:none;display:block;margin: .5em 0}
+dt {font-weight:bold}
+
+#nav, #search, #nav-secondary, #breadcrumb, #poweredby {display:none}
+
+/* =LINKS */
+a {border:none}
+a,a:link,a:link,a:link,a:hover {background:transparent;text-decoration:underline;cursor:pointer} 
+a:link {color:#5291c4} 
+a:visited {color:#666}
+a:hover {color:#ff9900;border:none} 
+a:active {color:#0066cc} 
+
+.teaserBox {clear:both;margin: 0 0 1em}
+
+.sponsors img {margin: .5em 0}
+
+#footer {margin: 1em 0}
+
+#header {border-bottom: 3px solid #c00}
